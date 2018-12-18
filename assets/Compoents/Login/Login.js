@@ -33,7 +33,7 @@ export default class Login extends React.Component {
 
 const styles = StyleSheet.create({
     bigblue: {
-      color: 'black',
+  color: 'black',
       fontSize: 15,
       marginVertical:10,
     },
